@@ -23,4 +23,3 @@ This repository contains a PyTorch-based image classification model trained to r
 ## 5. Future Improvements
 * Implement data augmentation techniques (random cropping, color jitter) to improve robustness.
 * Experiment with deeper architectures like EfficientNet for higher feature extraction capability.
-*
